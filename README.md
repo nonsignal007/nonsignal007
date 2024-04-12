@@ -11,13 +11,18 @@ Welcom my Github!
  <br/>
  
 ✨ Tech ✨
+
+ <br/>
+ 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ <br/>
  <br/>
  
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+ <br/>
  <br/>
  
 <img src="https://img.shields.io/badge/notion-0000000?style=flat-square&logo=notion&logoColor=white"/>
