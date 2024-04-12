@@ -4,7 +4,7 @@
 
 Welcom my Github!
 
-🔭 About ME --> <a href="nonsignal007.github.io" target="_blank"><img src="https://img.shields.io/badge/GITBlog-E4405F?style=square&logo=#333333&logoColor=white"/></a>
+🔭 About ME --> <a href="https://nonsignal007.github.io" target="_blank"><img src="https://img.shields.io/badge/GITBlog-E4405F?style=square&logo=#333333&logoColor=white"/></a>
 
 ✨ Tech ✨
 
