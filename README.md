@@ -6,6 +6,10 @@ Welcom my Github!
 
 🔭 About ME >>> <a href="https://nonsignal007.github.io" target="_blank"><img src="https://img.shields.io/badge/GITBlog-E4405F?style=square&logo=aboutdotme&logoColor=333333"/></a>
 
+<div align="center"> 
+ <br/>
+ <br/>
+ 
 ✨ Tech ✨
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <br/>
@@ -28,9 +32,11 @@ Welcom my Github!
  <br/>
  <br/>
  <br/>
+
 🌱 Studying 🌱
 
-
+<div/>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonsignal007)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
